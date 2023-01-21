@@ -1,5 +1,5 @@
 # URL Shortener Service
-A backend service built with NodeJS
+A backend service built with NodeJS and MongoDB
 
 ## Used tools
 
